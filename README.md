@@ -33,7 +33,7 @@ Clone the Repository
 
 bash
 Copy code
-git clone https://github.com/yourusername/repository-name.git
+git clone https://github.com/bhar-007/Data-Analysis-in-Python-and-Pandas-using-Jupyter-notebooks.git
 Navigate to the Directory
 
 bash
