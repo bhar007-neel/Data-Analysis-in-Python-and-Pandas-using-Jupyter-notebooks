@@ -1,4 +1,6 @@
-Data Analysis and Cleaning Projects
+**Data Analysis and Cleaning Projects**
+
+
 Welcome to my repository! This repository showcases my journey in learning and applying Python for data analysis, specifically using Jupyter Notebooks and the Pandas library. Below you will find various files and projects demonstrating my skills and knowledge in data exploration, analysis, and cleaning.
 
 Table of Contents
